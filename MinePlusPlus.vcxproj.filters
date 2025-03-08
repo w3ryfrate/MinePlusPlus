@@ -26,7 +26,4 @@
     <None Include="src\shaders\triangle.vert" />
     <None Include="src\shaders\triangle.frag" />
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="text.txt" />
-  </ItemGroup>
 </Project>
